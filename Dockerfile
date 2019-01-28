@@ -1,4 +1,4 @@
-FROM hshar/ubuntunew1212
+FROM shailu/centos
 
 ADD Blob /var/www/html/
 
